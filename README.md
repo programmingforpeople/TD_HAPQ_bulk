@@ -22,3 +22,4 @@ There are no provision to check if movies have already been encoded so if there 
 # to add
 ability to select which video to start on (or automaitcally detect what is in the output folder already)
 Package it all slightly nicer
+Resolution and format controller
